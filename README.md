@@ -7,6 +7,18 @@ This is is intended to be a "Living Supplement", allowing for updates as new res
 
 The version of the list that was published at the time of the article can be found [here]().  The most recent version can be found [here]().
 
+## Contents
+1. [Checklists](#checklists)
+2. [Data Dictionaries](#data-dictionaries)
+3. [Statistical Analysis Plans (SAPs)](#statistical-analysis-plans-saps)
+4. [README files](#readme-files)
+5. [File and Folder Structure](#file-and-folder-structure)
+6. [Software and Libraries](#software-and-libraries)
+	1. [Version Control Systems](#version-control-systems)
+	2. [Literate Programming](#literate-programming)
+	3. [R Libraries](#r-libraries)
+	4. [Containers](#containers)
+
 ## Checklists
 
 |Resource|Description|
@@ -47,3 +59,41 @@ The version of the list that was published at the time of the article can be fou
 | [Northwestern University Biostatistics Collaboration Center (BCC) file structure and project organization (PDF)](files/file-structure/NU%20BCC%20File%20Structure%20and%20Project%20Organization.pdf) | Provides instructions for members of the [Northwestern University Biostatistics Collaboration Center (BCC)](https://www.feinberg.northwestern.edu/sites/bcc/index.html) on the location of projects, the naming convention for project folders, and the sub-folders and contents within each project folder. It also provides instructions on documentation practices, such as a README or SAP, and commenting of source code. |
 | [OpenSourceRepoTemplate](https://github.com/CodeFactoryBerlin/OpenSourceRepoTemplate) | Template GitHub project, as described in [this Medium article](https://medium.com/code-factory-berlin/github-repository-structure-best-practices-248e6effc405). While geared towards open source software projects, a similar folder structure could be adapted for statistical analysis projects. |
 
+## Software and Libraries
+
+### Version Control Systems
+
+|Resource|Description|
+|--------|-----------|
+| [GitHub (Link)](https://github.com/) | Provides a web front-end for `git` version control. |
+| [GitLab (Link)](https://gitlab.com/) | Provides a web front-end for `git` version control. |
+| [Bitbucket (Link)](https://www.atlassian.com/software/bitbucket) | Provides a web front-end for `git` version control. |
+| [`git` (Link)](https://subversion.apache.org/) | Open source version control system. |
+| [Subversion (`svn`) (Link)](https://subversion.apache.org/) | Open source version control system. |
+
+### Literate Programming
+
+|Resource|Description|
+|--------|-----------|
+| [R Markdown (Link)](https://rmarkdown.rstudio.com/) | Allows weaving together document text alongside code - primarily R, but other languages supported - to generate reproducible documents. |
+| [Quarto (Link)](https://quarto.org/) | An open-source scientific and technical publishing environment, allowing you to weave together code and documentation in a reproducible manner. |
+| [Jupyter (Link)](https://jupyter.org/) | Electronic notebook environment that allows you to combine analytic code across multiple languages with documentation and analyses. |
+| [StatTag (Link)](https://sites.northwestern.edu/stattag/) | Supports reproducible research within Microsoft Word documents, allowing you to connect R, SAS, Stata, and Python code to your manuscript or report. |
+
+
+### R Libraries
+
+|Resource|Description|
+|--------|-----------|
+| [CIDAtools (Link)](https://cida-csph.github.io/CIDAtools/) | Organization-specific example of an R package to implement folder structure and READMEs for each one |
+| [datadictionary (Link)](https://cran.r-project.org/web/packages/datadictionary/index.html) | Creates a data dictionary from any dataframe or tibble in your R environment. |
+| [renv (Link)](https://cran.r-project.org/web/packages/renv/index.html) | A dependency management toolkit for R that makes it easier to support project-specific dependencies. |
+| [packrat (Link)](https://cran.r-project.org/web/packages/packrat/index.html) | A dependency management system for projects and their R package dependencies. Allows you t manage the R packages your project depends on in an isolated, portable, and reproducible way. |
+
+### Containers
+
+|Resource|Description|
+|--------|-----------|
+| [Docker (Link)](https://www.docker.com/) | Allows packaging an entire computational environment to ensure reproducible execution of code. |
+| [Podman (Link)](https://podman.io/) | Free and open-source solution that allows packaging an entire computational environment to ensure reproducible execution of code. |
+| [Apptainer (formerly Singularity) (Link)](https://apptainer.org/) | Secure, portable, and easy-to-use container system that supports packaging an entire computational environment for reproducible execution. |
