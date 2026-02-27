@@ -7,6 +7,8 @@ This is is intended to be a "Living Supplement", allowing for updates as new res
 
 The version of the list that was published at the time of the article can be found [here]().  The most recent version can be found [here]().
 
+A list of contributors to this repository can be found in [CONTRIBUTORS.md](CONTRIBUTORS.md).
+
 This repository and all files contained within it are under the [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/). External links are under the respective copyright and licenses as stated on the external sites.
 
 ## Contents
