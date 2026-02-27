@@ -26,6 +26,7 @@ This repository and all files contained within it are under the [CC-BY-4.0 licen
 |Resource|Description|
 |--------|-----------|
 | [QuanTS Reproducibility Checklist (PDF)]() | Project checklist for reproducible quantitative projects, created by the [Quantitative Team Science (QuantTS) Program](https://www.quantsprogram.com/) |
+| [Reporting and documentation guidelines for reproducible statistics in research (Link)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11376350/table/T1/) | Checklist for reproducibility considerations in collaborative statistics projects, from [Hochheimer et al. 2024](https://doi.org/10.1002/sta4.653) |
 
 
 ## Data Dictionaries
