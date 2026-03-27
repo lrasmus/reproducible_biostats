@@ -2,6 +2,7 @@
 
 In addition to the co-authors on the original publication, we thank the following for their contributions to this repository:
 
+* Amanda Ellis ([@AmandaEllis](https://github.com/AmandaEllis))
 * Camille Hochheimer ([@chochheimer](https://github.com/chochheimer))
 * Avi Kenny ([@Avi-Kenny](https://github.com/Avi-Kenny))
 * Luke Rasmussen ([@lrasmus](https://github.com/lrasmus))
