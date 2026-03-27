@@ -46,7 +46,7 @@ This repository and all files contained within it are under the [CC-BY-4.0 licen
 
 |Resource|Description|
 |--------|-----------|
-| [CBHDS Statistical Analysis Plan Template (Word)](files/saps/CBHDS%20Statistical%20Analysis%20Plan%20Template.docx) | SAP template used by the **?? NEED LINK??** CBHDS. |
+| [CBHDS Statistical Analysis Plan Template (Word)](files/saps/CBHDS%20Statistical%20Analysis%20Plan%20Template.docx) | SAP template used by the [Center for Biostatistics and Health Data Science (CBHDS)](https://biostat.centers.vt.edu/) at Virginia Tech. |
 | [Duke CTSI Statistical Analysis Plan Template (Word)](files/saps/DukeCTSI-SAP%20template.docx) | SAP template used by Duke Clinical & Translational Science Intitute's [Biostatistics, Epidemiology, and Research Design (BERD) Core](https://ctsi.duke.edu/research-support/berd). |
 
 ## README files
