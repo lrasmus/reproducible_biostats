@@ -7,6 +7,7 @@ In addition to the co-authors on the original publication, we thank the followin
 * Camille Hochheimer ([@chochheimer](https://github.com/chochheimer))
 * Avi Kenny ([@Avi-Kenny](https://github.com/Avi-Kenny))
 * Luke Rasmussen ([@lrasmus](https://github.com/lrasmus))
+* Tracy Truong ([@tracytruong214](https://github.com/tracytruong214))
 * David Yanez ([@yaneziii](https://github.com/yaneziii))
 
 
